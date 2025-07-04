@@ -53,7 +53,8 @@ a{
     /* font-size: 45px; */
 }
 ul>li>a:hover{
-    background-color:rgba(30, 30, 30, 0.226) ;
+    background-color:rgb(0,0,0) ;
+    color: beige;
     border-radius: 5%;
     height: 40px;
     /* font-size: 20px;
